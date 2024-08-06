@@ -80,8 +80,6 @@ The application uses JSON files for storing data, which are:
 
 ## Screenshots
 
-*Include screenshots of your application here.*
-
 ## Contribution
 
 Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
