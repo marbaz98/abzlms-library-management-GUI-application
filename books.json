@@ -1,0 +1,67 @@
+[
+    {
+        "ID": "1",
+        "Name": "The C++ Programming Language",
+        "Author": "Bjarne Stroustrup"
+    },
+    {
+        "ID": "2",
+        "Name": "Fundamentals of Computer Algorithms",
+        "Author": "Ellis Horowitz "
+    },
+    {
+        "ID": "3",
+        "Name": "The Lord of the Rings",
+        "Author": "J.R.R. Tolkien"
+    },
+    {
+        "ID": "4",
+        "Name": "The Catcher in the Rye",
+        "Author": "J.D. Salinger"
+    },
+    {
+        "ID": "5",
+        "Name": "The Road",
+        "Author": " Cormac McCarthy"
+    },
+    {
+        "ID": "6",
+        "Name": "One Hundred Years of Solitude",
+        "Author": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez"
+    },
+    {
+        "ID": "7",
+        "Name": "Sapiens: A Brief History of Humankind",
+        "Author": "Yuval Noah Harari"
+    },
+    {
+        "ID": "8",
+        "Name": "The Alchemist",
+        "Author": "Paulo Coelho"
+    },
+    {
+        "ID": "9",
+        "Name": "Dune",
+        "Author": "Frank Herbert"
+    },
+    {
+        "ID": "10",
+        "Name": "The Book Thief",
+        "Author": "Markus Zusak"
+    },
+    {
+        "ID": "11",
+        "Name": "12 Rules for Life: An Antidote to Chaos",
+        "Author": "Jordan Peterson"
+    },
+    {
+        "ID": "15",
+        "Name": "Man's Search for Meaning",
+        "Author": "Viktor E. Frankl"
+    },
+    {
+        "ID": "20",
+        "Name": "The Road Less Traveled",
+        "Author": "M. Scott Peck"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Book ID": "1",
+        "Book Name": "The C++ Programming Language",
+        "Author": "Bjarne Stroustrup",
+        "Borrower Name": "arpita",
+        "Roll Number": "1"
+    },
+    {
+        "Book ID": "10",
+        "Book Name": "The Book Thief",
+        "Author": "Markus Zusak",
+        "Borrower Name": "Suman sahu",
+        "Roll Number": "78"
+    },
+    {
+        "Book ID": "11",
+        "Book Name": "12 Rules for Life: An Antidote to Chaos",
+        "Author": "Jordan Peterson",
+        "Borrower Name": "Khomlata",
+        "Roll Number": "45"
+    },
+    {
+        "Book ID": "3",
+        "Book Name": "The Lord of the Rings",
+        "Author": "J.R.R. Tolkien",
+        "Borrower Name": "Tejpal",
+        "Roll Number": "11"
+    },
+    {
+        "Book ID": "5",
+        "Book Name": "The Road",
+        "Author": " Cormac McCarthy",
+        "Borrower Name": "Arpita",
+        "Roll Number": "1"
+    }
+]
