@@ -67,7 +67,7 @@ class LibraryManagementSystem:
 
         # Add welcome text and button
         tk.Label(self.welcome_frame, text="A Project Report on Library Management System", bg="#433987", fg="white", font=("Comic Sans MS", 30)).pack(pady=50)
-        tk.Label(self.welcome_frame, text="Diploma in Computer Application", bg="#433987", fg="white", font=("Consolas", 20)).pack(pady=0)
+        tk.Label(self.welcome_frame, text="Bachelor in Computer Application", bg="#433987", fg="white", font=("Consolas", 20)).pack(pady=0)
         tk.Label(self.welcome_frame, text="2023-2024", bg="#433987", fg="white", font=("Arial", 20)).pack(pady=5)
         self.enter_button = tk.Button(self.welcome_frame, text="Enter", command=self.go_to_login_selection, bg="#c2d9f2", fg="#040f07", relief="raised", font=("Arial", 16), bd=15)
         
