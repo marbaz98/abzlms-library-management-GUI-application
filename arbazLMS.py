@@ -75,10 +75,10 @@ class LibraryManagementSystem:
         #This button send to login selection
         
         tk.Label(self.welcome_frame, text="Guided by -                                                                                                                                                       Submitted by-", bg="#433987", fg="white", font=("Arial", 14)).pack(pady=0)
-        tk.Label(self.welcome_frame, text="Suman sir                                                                                 Arpita Bhadauriya ", bg="#433987", fg="white", font=("Times New Roman", 25)).pack(pady=0)
+        tk.Label(self.welcome_frame, text="----- sir                                                                                 Arbaz ", bg="#433987", fg="white", font=("Times New Roman", 25)).pack(pady=0)
         tk.Label(self.welcome_frame, text="CV Raman University \n Bilaspur", bg="#433987", fg="white", font=("Arial", 20)).pack(pady=20)
         tk.Label(self.welcome_frame, text="Registered Study Center -", bg="#433987", fg="white", font=("Consolas", 16)).pack(pady=0)
-        tk.Label(self.welcome_frame, text="Universal Computer Education\n Station maroda,Bhilai", bg="#433987", fg="white", font=("Arial", 20)).pack(pady=3)
+        tk.Label(self.welcome_frame, text="-----------------------------------------------", bg="#433987", fg="white", font=("Arial", 20)).pack(pady=3)
 
 
     def go_to_login_selection(self):
