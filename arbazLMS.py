@@ -1,5 +1,5 @@
-import tkinter as tk
-from tkinter import messagebox, simpledialog
+import tkinter as tk                            #from >> https://github.com/md-arbaz98/ 
+from tkinter import messagebox, simpledialog    #design&coded by @arbaz
 from tkinter import font as tkfont
 from tkinter import ttk
 from tkinter import PhotoImage
@@ -18,14 +18,14 @@ def resource_path(relative_path):
 
 
 # Admin credentials
-ADMIN_USERNAME = "arpita"       
+ADMIN_USERNAME = "admin"       
 ADMIN_PASSWORD = "password"
 
 # File paths for storing data
-BOOKS_FILE = "books.json"
-AUTHORS_FILE = "authors.json"
-BORROWERS_FILE = "borrowers.json"
-DUES_FILE = "dues.json"
+BOOKS_FILE = "books.json"        #from https://github.com/md-arbaz98/abzlms/blob/main/books.json
+AUTHORS_FILE = "authors.json"    #from https://github.com/md-arbaz98/abzlms/blob/main/authors.json
+BORROWERS_FILE = "borrowers.json" #from https://github.com/md-arbaz98/abzlms/blob/main/borrowers.json
+DUES_FILE = "dues.json"            #from https://github.com/md-arbaz98/abzlms/blob/main/dues.json
 
 class LibraryManagementSystem:
     def __init__(self, root):
@@ -100,7 +100,7 @@ class LibraryManagementSystem:
         tk.Button(self.login_selection_frame, text="Students Enter here", command=self.enter_as_user, width=50, height=3, bg="#5effd4", relief="raised", font=("Arial", 14, "bold")).pack(pady=18)
         
         logo_path = resource_path('logo.png')
-        self.logo_image = PhotoImage(file=logo_path)
+        self.logo_image = PhotoImage(file=logo_path) #from https://github.com/md-arbaz98/abzlms/blob/main/logo.png
 
         # Create a label to display the logo
         logo_label = tk.Label(self.login_selection_frame, image=self.logo_image, bg="#433987")
@@ -960,3 +960,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = LibraryManagementSystem(root)
     root.mainloop()
+#from >> https://github.com/md-arbaz98/ 
+#Design & coded by @arbaz
